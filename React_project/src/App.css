@@ -1,0 +1,163 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+.historybg {
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.left {
+  float: left;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+.right {
+  float: right;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.his{
+  text-align: justify;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.para {
+  text-align: justify;
+  padding-left: 450px;
+  padding-right: 20px;
+}
+.margin{
+  margin-top: 50px;
+}
+* {
+  background-image: url('images/historybgm.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.heading{
+    background-image: linear-gradient(to right, #FFA600, #ff0015); /* Orange to gold gradient */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+      /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+      font-weight: bold;
+      font-size: 50px;
+    }
+    .heading2{
+      background-image: linear-gradient(to right, #ff4d00, #3700ff); /* Orange to gold gradient */
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+        /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+        font-weight: bold;
+        font-size: 40px;
+      }
+      .info{
+        background-image: linear-gradient(to right, #1500ff, #ff0015); /* Orange to gold gradient */
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+          /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+          font-weight: bold;
+          font-size: 30px;
+      }
+      .imginfo{
+        background-image: linear-gradient(to right, #4000ff, #ff0000db); /* Orange to gold gradient */
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+          /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+          font-weight: bold;
+          font-size: 25px;
+      }
+
+      .hiscolor{
+        background-image: linear-gradient(to right, rgb(0, 45, 85), #ff00d0db); /* Orange to gold gradient */
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+          /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+          font-weight: bold;
+          font-size: 20px;
+      }
+
+      .historybghead{
+        background-image: linear-gradient(to right, rgb(0, 45, 85), #ff00d0db); /* Orange to gold gradient */
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+          /* box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); Box shadow with a blur */
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow with a slight blur */
+          font-weight: bold;
+          font-size: 20px;
+          text-align: justify;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+      }
+
+
+      
+
+
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+

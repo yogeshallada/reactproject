@@ -1,0 +1,22 @@
+/* YourComponent.css */
+
+/* Define the initial styles for the heading */
+.animated-heading {
+    font-size: 24px;
+    color: red;
+    transition: color 0.3s ease, font-size 0.3s ease; /* Add transitions for smooth animation */
+    cursor: pointer;
+    border: none; 
+    background-color: transparent;
+
+  }
+  
+  /* Define the hover styles for the heading */
+  .animated-heading:hover {
+    color: red; /* Change color on hover */
+    font-size: 36px; /* Change font size on hover */
+  }
+
+
+ 
+  
